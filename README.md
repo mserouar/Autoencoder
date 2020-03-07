@@ -1,4 +1,4 @@
-# Autoencoder
+# Autoencoders
 Handling missing data with various autoencoders
 
 Student project in team including Laurie Cantaloube 
